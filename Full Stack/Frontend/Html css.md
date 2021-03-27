@@ -1,15 +1,15 @@
-#NS Frontend
+# NS Frontend 
 
-##Intro to web development with HTML
+## Intro to web development with HTML
 
-###Getting Started
+### Getting Started
 
 Hint: Create a div tag with the id name as text and then write the entire text mention within the quotations without any full shops or spaces
 ```HTML
 <div id="text">Welcome to the world of Web development</div>
 ```
 
-###Why Software
+### Why Software
 
 Hint: For h1 tag copy the entire given text in the quotation except the space at end and for paragraph write whatever you want
 ```HTML
@@ -17,7 +17,7 @@ Hint: For h1 tag copy the entire given text in the quotation except the space at
 <p>The reason is software development can help you in building an app which can help you to lower your task which generally a person feel lasy to do that work.</p>
 ```
 
-###Shopping or Holiday
+### Shopping or Holiday
 
 Hint:Here main understanding is when it ask for ordered list, then create li list consisting data-ns-test attribute as shoppingList same you need to do the same for unordered list where the li list consisting data-ns-test attribute as holidayList
 ```HTML
@@ -25,14 +25,14 @@ Hint:Here main understanding is when it ask for ordered list, then create li lis
 <li data-ns-test="holidayList">Manali</li> <*-- Ex for unordered list -->
 ```
 
-###Favorite Song
+### Favorite Song
 
 Hint: Create a div tag and in that div tag create an anchor tag with the name you are going to link it
 ```HTML
 <div>My favourite song is <a href="https://www.youtube.com/embed/eNvUS-6PTbs">Cheri Cheri Lady</a></div>
 ```
 
-###Favourite Animal
+### Favourite Animal
 
 Hint: This is simple. Just use img tag with src and alt as attribute and then copy/paste the complete url in the src
 ```HTML
