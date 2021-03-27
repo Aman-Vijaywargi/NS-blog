@@ -3,7 +3,7 @@ A blog to showcase what I learnt from NS.
 ## Curriculum
 ### DSA :
 - [x] Arrays
-- [ ] Recursion
+- [x] Recursion
 - [ ] Sieve Of Eratosthenes
 - [ ] Sorting
 - [ ] Searching
