@@ -4,7 +4,7 @@ A blog to showcase what I learnt from NS.
 ### DSA :
 - [x] Arrays
 - [x] Recursion
-- [ ] Sieve Of Eratosthenes
+- [x] Sieve Of Eratosthenes
 - [ ] Sorting
 - [ ] Searching
 - [ ] Strings
