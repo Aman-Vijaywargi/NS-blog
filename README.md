@@ -2,9 +2,9 @@
 A blog to showcase what I learnt from NS. 
 ## Curriculum
 ### DSA :fire: :
-:white_check_mark: Arrays
-:white_check_mark: Recursion
-:white_check_mark: Sieve Of Eratosthenes
+- :white_check_mark: Arrays
+- :white_check_mark: Recursion
+- :white_check_mark: Sieve Of Eratosthenes
 - [ ] Sorting
 - [ ] Searching
 - [ ] Strings
