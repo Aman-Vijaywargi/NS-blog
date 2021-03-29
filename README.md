@@ -20,4 +20,4 @@ Check the list and find an unfinished topic and let people know by writing in is
 P.S- Some easy/beginner topics aren't covered. Try to use this as a tool than a solution bank :) . Goodluck!
 
 # Credits:
-Aman vijaywargi : contribution to HTML/CSS section. 🚀
+Aman Vijayvargiya AKA Amanfinisher : contribution to HTML/CSS section. 🚀
